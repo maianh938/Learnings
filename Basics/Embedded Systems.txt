@@ -1,0 +1,24 @@
+1. What is a System?  
+   ANALOGY: Picture a city. It consists of buildings, roads, and people (the various components), all collaborating to achieve different objectives (such as living, working, and transportation). Everything is interconnected, functioning as a unified “system.”  
+
+2. What is a General-Purpose System?  
+   ANALOGY: Envision a railway station in that city. It serves a wide array of travelers and trains, each with different purposes—some are going on business trips, others are on vacation, and some are transporting goods. The station qualifies as “general-purpose” because it caters to various types of travelers and destinations.  
+
+3. What is an Embedded System and Why Do We Need It?  
+   ANALOGY: Think of a movie theater. Its design focuses on a singular aim—showing films. Every element inside, from the screen and projector to the seating, is tailored specifically for that one experience. Similarly, embedded systems are crafted for specific tasks or a closely related set of functions (such as playing a movie).  
+
+4. Parts of an Embedded System  
+   ANALOGY: Let’s break down the movie theater:  
+   The “projector” and “screen” represent the core hardware (such as the microcontroller or processor).  
+   The “movie” signifies the software (firmware) that drives the entire show.  
+   The “sound system and lighting” serve as peripherals that enhance the main function.  
+   The “ticket counter and staff routines” symbolize background tasks or operating system features.  
+   The “power supply” is the electricity that energizes everything.  
+
+5. What is Embedded Software?  
+   ANALOGY: In the context of the movie theater, the “film” or “digital movie file” being played is akin to application code. It instructs the projector on which frames to display and when. Moreover, the staff schedules and routines (like turning on lights and opening doors) resemble supporting firmware tasks that ensure the operation runs smoothly and reliably.  
+
+6. What is Programming in the Embedded Sense?  
+   ANALOGY: Programming for embedded systems is like crafting an intricate and precise script for a performance, detailing every action and timing. Each aspect must be defined clearly to ensure the entire system operates seamlessly in its designated role.     
+   Instructions for every aspect of how the theater is run—when to dim lights,how to start the movie exactly on time, how to respond to a broken projector bulb. 
+   It’s more specialized and precise than a general-purpose manual because the stakes (timing, reliability) are higher, and everything is narrowly focused on a single goal.
